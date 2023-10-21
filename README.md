@@ -40,5 +40,5 @@ The dataset used for training and testing the machine learning models is not inc
 To use the trained model for leaf recognition, run the provided script and follow the usage instructions in the documentation.
 
 ```
-python recognize_leaves.py
+python code.py
 ```
